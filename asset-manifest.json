@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.e2b64b7b.chunk.css",
-    "main.js": "./static/js/main.1a04a65b.chunk.js",
-    "main.js.map": "./static/js/main.1a04a65b.chunk.js.map",
+    "main.css": "./static/css/main.e470d306.chunk.css",
+    "main.js": "./static/js/main.3210b5f1.chunk.js",
+    "main.js.map": "./static/js/main.3210b5f1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
-    "static/js/2.1ff25cf5.chunk.js": "./static/js/2.1ff25cf5.chunk.js",
-    "static/js/2.1ff25cf5.chunk.js.map": "./static/js/2.1ff25cf5.chunk.js.map",
+    "static/js/2.7acfb880.chunk.js": "./static/js/2.7acfb880.chunk.js",
+    "static/js/2.7acfb880.chunk.js.map": "./static/js/2.7acfb880.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.e2b64b7b.chunk.css.map": "./static/css/main.e2b64b7b.chunk.css.map",
-    "static/js/2.1ff25cf5.chunk.js.LICENSE.txt": "./static/js/2.1ff25cf5.chunk.js.LICENSE.txt",
+    "static/css/main.e470d306.chunk.css.map": "./static/css/main.e470d306.chunk.css.map",
+    "static/js/2.7acfb880.chunk.js.LICENSE.txt": "./static/js/2.7acfb880.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/DropDown.scss": "./static/media/arrow-up.bca5376b.svg",
     "static/media/arrow-left.7e79118d.svg": "./static/media/arrow-left.7e79118d.svg",
@@ -20,19 +20,18 @@
     "static/media/banner3.a962057c.png": "./static/media/banner3.a962057c.png",
     "static/media/ShopByCategory.scss": "./static/media/category-tablets.51782e18.png",
     "static/media/cross.0be1ed2a.svg": "./static/media/cross.0be1ed2a.svg",
-    "static/media/favorites-default.b228ef13.svg": "./static/media/favorites-default.b228ef13.svg",
+    "static/media/Header.scss": "./static/media/shopping-bag.499582d5.svg",
     "static/media/footer-button.470683b8.svg": "./static/media/footer-button.470683b8.svg",
     "static/media/heart-selected.0adbb61b.svg": "./static/media/heart-selected.0adbb61b.svg",
     "static/media/heart.857e9a09.svg": "./static/media/heart.857e9a09.svg",
     "static/media/home.f28213b9.svg": "./static/media/home.f28213b9.svg",
     "static/media/logo.839aa95d.svg": "./static/media/logo.839aa95d.svg",
-    "static/media/search.1e77bbf1.svg": "./static/media/search.1e77bbf1.svg",
-    "static/media/shopping-bag.499582d5.svg": "./static/media/shopping-bag.499582d5.svg"
+    "static/media/search.1e77bbf1.svg": "./static/media/search.1e77bbf1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
-    "static/js/2.1ff25cf5.chunk.js",
-    "static/css/main.e2b64b7b.chunk.css",
-    "static/js/main.1a04a65b.chunk.js"
+    "static/js/2.7acfb880.chunk.js",
+    "static/css/main.e470d306.chunk.css",
+    "static/js/main.3210b5f1.chunk.js"
   ]
 }
