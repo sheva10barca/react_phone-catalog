@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.621f54e3.chunk.css",
-    "main.js": "./static/js/main.5955a50e.chunk.js",
-    "main.js.map": "./static/js/main.5955a50e.chunk.js.map",
+    "main.css": "./static/css/main.b14c360f.chunk.css",
+    "main.js": "./static/js/main.580160f5.chunk.js",
+    "main.js.map": "./static/js/main.580160f5.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.e748cf9a.chunk.js": "./static/js/2.e748cf9a.chunk.js",
     "static/js/2.e748cf9a.chunk.js.map": "./static/js/2.e748cf9a.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.621f54e3.chunk.css.map": "./static/css/main.621f54e3.chunk.css.map",
+    "static/css/main.b14c360f.chunk.css.map": "./static/css/main.b14c360f.chunk.css.map",
     "static/js/2.e748cf9a.chunk.js.LICENSE.txt": "./static/js/2.e748cf9a.chunk.js.LICENSE.txt",
     "static/media/6134065.41ade0ad.png": "./static/media/6134065.41ade0ad.png",
     "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
@@ -21,7 +21,8 @@
     "static/media/banner3.a962057c.png": "./static/media/banner3.a962057c.png",
     "static/media/burger__menu.7eed0fb5.svg": "./static/media/burger__menu.7eed0fb5.svg",
     "static/media/ShopByCategory.scss": "./static/media/category-tablets.51782e18.png",
-    "static/media/cross.0be1ed2a.svg": "./static/media/cross.0be1ed2a.svg",
+    "static/media/Search.scss": "./static/media/cross.0be1ed2a.svg",
+    "static/media/error.25000083.svg": "./static/media/error.25000083.svg",
     "static/media/Header.scss": "./static/media/shopping-bag.499582d5.svg",
     "static/media/footer-button.470683b8.svg": "./static/media/footer-button.470683b8.svg",
     "static/media/AddToFavButton.scss": "./static/media/heart.857e9a09.svg",
@@ -32,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.e748cf9a.chunk.js",
-    "static/css/main.621f54e3.chunk.css",
-    "static/js/main.5955a50e.chunk.js"
+    "static/css/main.b14c360f.chunk.css",
+    "static/js/main.580160f5.chunk.js"
   ]
 }
